@@ -89,10 +89,9 @@ export function LoginForm({
           </form>
           <div className="relative hidden bg-muted md:block">
             <Image
-              src="/login/login5.png"
+              src="/login/hello-kapibala.png"
               alt="Image"
-              width={383}
-              height={498}
+              fill={true}
               className="absolute inset-0 h-full w-full object-cover dark:brightness-[0.2] dark:grayscale"
             />
           </div>
